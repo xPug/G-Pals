@@ -23,6 +23,8 @@ Goals:
 
 HTML File: 
 
-Replit: https://replit.com/@raychuang29/G-pal#style.css
+Replit: 
+https://replit.com/@raychuang29/G-pal#style.css
+https://replit.com/@raychuang29/Test-1#index.html
 
 Slides: https://docs.google.com/presentation/d/1WRtZQkdYDr5dzxC45_VWOmzNgx-EQqaKPIbR-PAB4xc/edit?usp=sharing
