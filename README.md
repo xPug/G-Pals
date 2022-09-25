@@ -22,3 +22,6 @@ Goals:
 - help improve the skill level of gamers and allow different levels of people to play with each other 
 
 HTML File: 
+
+Replit: https://replit.com/@raychuang29/G-pal#style.css
+Slides: https://docs.google.com/presentation/d/1WRtZQkdYDr5dzxC45_VWOmzNgx-EQqaKPIbR-PAB4xc/edit?usp=sharing
