@@ -1,5 +1,5 @@
 # G-Pals
-LAVI 24-Hr Hackathon Project (In BETA)
+🌐 LAVI 24-Hr Hackathon Project (In BETA) 🌐
 
 Name: G-Pals
 Logo: Two Bonding Circles (Blue and Purple) with Two Hands Holding
